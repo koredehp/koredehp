@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koredehp
+- 👋 Hi, I’m @narutokun
 - 👀 I’m interested in being a good programmer
 - 🌱 I’m currently learning cyber security and frontend
 - 💞️ I’m looking to collaborate on a lot of projects
